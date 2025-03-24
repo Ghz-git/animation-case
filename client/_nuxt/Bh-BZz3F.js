@@ -1,0 +1,1 @@
+import{_ as s}from"./DTF1NCKZ.js";import{O as a,P as o,Q as _,a0 as r,W as n}from"./BqoG-WQz.js";const c={class:"m-wrap"},i={class:"m-wrap__title"},p={__name:"index",props:["title"],setup(t){return(e,d)=>(a(),o("div",c,[_("h1",i,r(t.title),1),n(e.$slots,"default",{},void 0,!0)]))}},u=s(p,[["__scopeId","data-v-5d1bb4ba"]]);export{u as _};

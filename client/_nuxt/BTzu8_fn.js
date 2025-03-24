@@ -1,0 +1,1 @@
+import t from"./CXinIJgr.js";import o from"./B3_BNOVh.js";import{P as a,H as e,O as r}from"./BqoG-WQz.js";import"./DTF1NCKZ.js";import"./BnURiYSk.js";import"./ywD8FVz5.js";const m={class:"academy"},u={__name:"index",setup(c){return(n,s)=>(r(),a("div",m,[e(t),e(o)]))}};export{u as default};

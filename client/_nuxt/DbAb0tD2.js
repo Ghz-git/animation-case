@@ -1,0 +1,1 @@
+import{c as o,h as c}from"./DTF1NCKZ.js";const i=s=>{const t=o().public.cms+"/api/v1/news/page";return c(t,s)},p=s=>{const t=o().public.cms+"/api/v1/news/getByUrl";return c(t,s)};export{i as a,p as g};
