@@ -1,1 +1,0 @@
-import{t as a,w as s}from"./DTF1NCKZ.js";import{b as r}from"./BqoG-WQz.js";const g=a("challenges",()=>{const t=r({});return{scalingPlan:t,setData:e=>{t.value=e},getData:()=>t.value}},{persist:{storage:s.localStorage}});export{g as u};

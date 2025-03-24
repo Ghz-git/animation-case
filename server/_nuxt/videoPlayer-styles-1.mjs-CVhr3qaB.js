@@ -1,5 +1,0 @@
-const videoPlayer_vue_vue_type_style_index_0_scoped_8b606e22_lang = ".scrollX[data-v-8b606e22]{overflow-x:scroll}.scrollX[data-v-8b606e22]::-webkit-scrollbar{display:none}input[type=password][data-v-8b606e22]::-ms-clear,input[type=password][data-v-8b606e22]::-ms-reveal{display:none}input[type=password][data-v-8b606e22]::-o-clear{display:none}[data-v-8b606e22]:-webkit-autofill,[data-v-8b606e22]:-webkit-autofill:active,[data-v-8b606e22]:-webkit-autofill:focus,[data-v-8b606e22]:-webkit-autofill:hover{-webkit-transition:background-color 9999s ease-in-out 0s;transition:background-color 9999s ease-in-out 0s}input[data-v-8b606e22]:-webkit-autofill{-webkit-text-fill-color:#fff!important}.iframeBox[data-v-8b606e22]{height:33.125vw;width:54.16667vw}@media screen and (max-width:1024px){.iframeBox[data-v-8b606e22]{height:auto;min-height:43.2vw;width:74.6667vw}}";
-export {
-  videoPlayer_vue_vue_type_style_index_0_scoped_8b606e22_lang as default
-};
-//# sourceMappingURL=videoPlayer-styles-1.mjs-CVhr3qaB.js.map

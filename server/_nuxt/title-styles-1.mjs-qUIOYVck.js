@@ -1,5 +1,0 @@
-const title_vue_vue_type_style_index_0_scoped_1827be45_lang = ".scrollX[data-v-1827be45]{overflow-x:scroll}.scrollX[data-v-1827be45]::-webkit-scrollbar{display:none}input[type=password][data-v-1827be45]::-ms-clear,input[type=password][data-v-1827be45]::-ms-reveal{display:none}input[type=password][data-v-1827be45]::-o-clear{display:none}[data-v-1827be45]:-webkit-autofill,[data-v-1827be45]:-webkit-autofill:active,[data-v-1827be45]:-webkit-autofill:focus,[data-v-1827be45]:-webkit-autofill:hover{-webkit-transition:background-color 9999s ease-in-out 0s;transition:background-color 9999s ease-in-out 0s}input[data-v-1827be45]:-webkit-autofill{-webkit-text-fill-color:#fff!important}.faqTitle[data-v-1827be45]{color:#fff;font-size:2.5vw;font-weight:700;line-height:3.75vw;text-align:center;white-space:nowrap;width:100%}@media screen and (max-width:1024px){.faqTitle[data-v-1827be45]{font-size:12.8vw;line-height:19.2vw;padding-bottom:11.2vw;text-align:left}}";
-export {
-  title_vue_vue_type_style_index_0_scoped_1827be45_lang as default
-};
-//# sourceMappingURL=title-styles-1.mjs-qUIOYVck.js.map

@@ -1,5 +1,0 @@
-const ucMain_vue_vue_type_style_index_0_scoped_6af361a6_lang = ".scrollX[data-v-6af361a6]{overflow-x:scroll}.scrollX[data-v-6af361a6]::-webkit-scrollbar{display:none}input[type=password][data-v-6af361a6]::-ms-clear,input[type=password][data-v-6af361a6]::-ms-reveal{display:none}input[type=password][data-v-6af361a6]::-o-clear{display:none}[data-v-6af361a6]:-webkit-autofill,[data-v-6af361a6]:-webkit-autofill:active,[data-v-6af361a6]:-webkit-autofill:focus,[data-v-6af361a6]:-webkit-autofill:hover{-webkit-transition:background-color 9999s ease-in-out 0s;transition:background-color 9999s ease-in-out 0s}input[data-v-6af361a6]:-webkit-autofill{-webkit-text-fill-color:#fff!important}.ucMain[data-v-6af361a6]{display:-webkit-box;display:-ms-flexbox;display:flex;padding:3.125vw 0;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}@media screen and (max-width:1024px){.ucMain[data-v-6af361a6]{margin-left:0;padding:5.3333vw 0;width:100%}}";
-export {
-  ucMain_vue_vue_type_style_index_0_scoped_6af361a6_lang as default
-};
-//# sourceMappingURL=ucMain-styles-1.mjs-BnhhH_ye.js.map
