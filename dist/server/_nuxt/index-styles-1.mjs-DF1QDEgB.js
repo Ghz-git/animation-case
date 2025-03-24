@@ -1,0 +1,5 @@
+const index_scss_vue_type_style_index_0_src_6a281149_scoped_6a281149_lang = ".scrollX[data-v-6a281149]{overflow-x:scroll}.scrollX[data-v-6a281149]::-webkit-scrollbar{display:none}input[type=password][data-v-6a281149]::-ms-clear,input[type=password][data-v-6a281149]::-ms-reveal{display:none}input[type=password][data-v-6a281149]::-o-clear{display:none}[data-v-6a281149]:-webkit-autofill,[data-v-6a281149]:-webkit-autofill:active,[data-v-6a281149]:-webkit-autofill:focus,[data-v-6a281149]:-webkit-autofill:hover{-webkit-transition:background-color 9999s ease-in-out 0s;transition:background-color 9999s ease-in-out 0s}input[data-v-6a281149]:-webkit-autofill{-webkit-text-fill-color:#fff!important}.guide-container[data-v-6a281149]{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%}.guide-container__bar[data-v-6a281149]{border-right:1px solid hsla(0,0%,100%,.2);min-height:100vh;width:18.85417vw}.guide-container__main[data-v-6a281149]{min-height:100vh;width:100%}";
+export {
+  index_scss_vue_type_style_index_0_src_6a281149_scoped_6a281149_lang as default
+};
+//# sourceMappingURL=index-styles-1.mjs-DF1QDEgB.js.map

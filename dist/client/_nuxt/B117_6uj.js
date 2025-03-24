@@ -1,0 +1,1 @@
+const e=[{label:"Footer.list.item2.children2",key:"Beginner Videos",path:"/academy/education?key=2",isBlank:!1},{label:"Footer.list.item2.children3",key:"Intermediate Videos",path:"/academy/education?key=3",isBlank:!1},{label:"Footer.list.item2.children4",key:"Advanced Videos",path:"/academy/education?key=4",isBlank:!1}];export{e as A};

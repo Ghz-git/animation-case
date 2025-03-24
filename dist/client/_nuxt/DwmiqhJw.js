@@ -1,0 +1,1 @@
+import{_ as t}from"./DjtzGY-R.js";import{_ as e}from"./_HAIwVXa.js";import{P as n,H as c,O as _}from"./BqoG-WQz.js";const a={},s={class:"ucMain"};function r(m,p){const o=t;return _(),n("main",s,[c(o)])}const u=e(a,[["render",r],["__scopeId","data-v-6af361a6"]]);export{u as default};

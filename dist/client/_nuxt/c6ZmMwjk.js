@@ -1,0 +1,1 @@
+import{t as s,w as o}from"./_HAIwVXa.js";import{b as r}from"./BqoG-WQz.js";const c=s("isMobile",()=>{const e=r(!1);return{bol:e,setItem:t=>{e.value=t},getItem:()=>e.value}},{persist:{storage:o.cookies}});export{c as u};

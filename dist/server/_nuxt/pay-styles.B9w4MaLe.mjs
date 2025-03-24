@@ -1,0 +1,2 @@
+import style_0 from './pay-styles-1.mjs-ChE4-ewi.js';
+export default [style_0]
